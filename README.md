@@ -8,5 +8,6 @@
 
 ### The layout for the project is as shown below 
 
-![output](./src/img/layout1.png)
+![layout1](https://user-images.githubusercontent.com/112842592/205043869-277a403f-c101-4915-b63a-17f2373ac30f.png)
+
 ![output](./src/img/layout2.png)
